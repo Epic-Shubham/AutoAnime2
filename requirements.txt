@@ -4,8 +4,7 @@ aiohttp
 aiofiles
 apscheduler==3.10.1
 feedparser
-rsa==3.4  # Replace '3.4' with a compatible version
-libtorrent==2.0.6  # Replace '2.0.6' with a compatible version
+libtorrent==1.2.11
 https://github.com/New-dev0/Telethon/archive/platy.zip
 pyrogram==2.0.102
 tgcrypto
